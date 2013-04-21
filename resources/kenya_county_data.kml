@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>sql_statement</name>
+<Schema name="sql_statement" id="sql_statement">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="county" type="string"></SimpleField>
+	<SimpleField name="former_province" type="string"></SimpleField>
+	<SimpleField name="area_km2" type="string"></SimpleField>
+	<SimpleField name="population_census_2009" type="string"></SimpleField>
+	<SimpleField name="capital" type="string"></SimpleField>
+	<SimpleField name="lat" type="string"></SimpleField>
+	<SimpleField name="long" type="string"></SimpleField>
+	<SimpleField name="cartodb_id" type="int"></SimpleField>
+	<SimpleField name="created_at" type="string"></SimpleField>
+	<SimpleField name="updated_at" type="string"></SimpleField>
+	<SimpleField name="cartodb_georef_status" type="int"></SimpleField>
+</Schema>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="county">Kwale</SimpleData>
+		<SimpleData name="former_province">Coast</SimpleData>
+		<SimpleData name="area_km2">8,270.30</SimpleData>
+		<SimpleData name="population_census_2009">649,931</SimpleData>
+		<SimpleData name="capital">Kwale</SimpleData>
+		<SimpleData name="lat">-4.1744444</SimpleData>
+		<SimpleData name="long">39.4602778</SimpleData>
+		<SimpleData name="cartodb_id">2</SimpleData>
+		<SimpleData name="created_at">2013/04/20 23:57:25</SimpleData>
+		<SimpleData name="updated_at">2013/04/20 23:59:00</SimpleData>
+		<SimpleData name="cartodb_georef_status">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.4602778,-4.1744444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="county">Kilifi</SimpleData>
+		<SimpleData name="former_province">Coast</SimpleData>
+		<SimpleData name="area_km2">12,245.90</SimpleData>
+		<SimpleData name="population_census_2009">1,109,735</SimpleData>
+		<SimpleData name="capital">Kilifi</SimpleData>
+		<SimpleData name="lat">-3.6333333</SimpleData>
+		<SimpleData name="long">39.85</SimpleData>
+		<SimpleData name="cartodb_id">3</SimpleData>
+		<SimpleData name="created_at">2013/04/20 23:57:25</SimpleData>
+		<SimpleData name="updated_at">2013/04/20 23:59:01</SimpleData>
+		<SimpleData name="cartodb_georef_status">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.93477,-12.04525</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="county">Tana River</SimpleData>
+		<SimpleData name="former_province">Coast</SimpleData>
+		<SimpleData name="area_km2">35,375.80</SimpleData>
+		<SimpleData name="population_census_2009">240,075</SimpleData>
+		<SimpleData name="capital">Hola</SimpleData>
+		<SimpleData name="lat">60.4279531</SimpleData>
+		<SimpleData name="long">5.1444407</SimpleData>
+		<SimpleData name="cartodb_id">4</SimpleData>
+		<SimpleData name="created_at">2013/04/20 23:57:25</SimpleData>
+		<SimpleData name="updated_at">2013/04/20 23:59:02</SimpleData>
+		<SimpleData name="cartodb_georef_status">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>5.1444407,60.4279531</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="county">Lamu</SimpleData>
+		<SimpleData name="former_province">Coast</SimpleData>
+		<SimpleData name="area_km2">6,497.70</SimpleData>
+		<SimpleData name="population_census_2009">101,539</SimpleData>
+		<SimpleData name="capital">Lamu</SimpleData>
+		<SimpleData name="lat">-2.2695575</SimpleData>
+		<SimpleData name="long">40.9006408</SimpleData>
+		<SimpleData name="cartodb_id">5</SimpleData>
+		<SimpleData name="created_at">2013/04/20 23:57:25</SimpleData>
+		<SimpleData name="updated_at">2013/04/20 23:59:05</SimpleData>
+		<SimpleData name="cartodb_georef_status">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>40.9006408,-2.2695575</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="county">Taita-Taveta</SimpleData>
+		<SimpleData name="former_province">Coast</SimpleData>
+		<SimpleData name="area_km2">17,083.90</SimpleData>
+		<SimpleData name="population_census_2009">284,657</SimpleData>
+		<SimpleData name="capital">Voi</SimpleData>
+		<SimpleData name="lat">-3.3973104</SimpleData>
+		<SimpleData name="long">38.5559336</SimpleData>
+		<SimpleData name="cartodb_id">6</SimpleData>
+		<SimpleData name="created_at">2013/04/20 23:57:25</SimpleData>
+		<SimpleData name="updated_at">2013/04/20 23:59:08</SimpleData>
+		<SimpleData name="cartodb_georef_status">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.5559336,-3.3973104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="county">Garissa</SimpleData>
+		<SimpleData name="former_province">North Eastern</SimpleData>
+		<SimpleData name="area_km2">45,720.20</SimpleData>
+		<SimpleData name="population_census_2009">623,060</SimpleData>
+		<SimpleData name="capital">Garissa</SimpleData>
+		<SimpleData name="lat">-0.4532293</SimpleData>
+		<SimpleData name="long">39.6460988</SimpleData>
+		<SimpleData name="cartodb_id">7</SimpleData>
+		<SimpleData name="created_at">2013/04/20 23:57:25</SimpleData>
+		<SimpleData name="updated_at">2013/04/20 23:59:09</SimpleData>
+		<SimpleData name="cartodb_georef_status">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.07166,36.70446</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="county">Wajir</SimpleData>
+		<SimpleData name="former_province">North Eastern</SimpleData>
+		<SimpleData name="area_km2">55,840.60</SimpleData>
+		<SimpleData name="population_census_2009">661,941</SimpleData>
+		<SimpleData name="capital">Wajir</SimpleData>
+		<SimpleData name="lat">1.7488388</SimpleData>
+		<SimpleData name="long">40.058633</SimpleData>
+		<SimpleData name="cartodb_id">8</SimpleData>
+		<SimpleData name="created_at">2013/04/20 23:57:25</SimpleData>
+		<SimpleData name="updated_at">2013/04/20 23:59:12</SimpleData>
+		<SimpleData name="cartodb_georef_status">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>40.058633,1.7488388</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="county">Mandera</SimpleData>
+		<SimpleData name="former_province">North Eastern</SimpleData>
+		<SimpleData name="area_km2">25,797.70</SimpleData>
+		<SimpleData name="population_census_2009">1,025,756</SimpleData>
+		<SimpleData name="capital">Mandera</SimpleData>
+		<SimpleData name="lat">3.9356389</SimpleData>
+		<SimpleData name="long">41.8551162</SimpleData>
+		<SimpleData name="cartodb_id">9</SimpleData>
+		<SimpleData name="created_at">2013/04/20 23:57:25</SimpleData>
+		<SimpleData name="updated_at">2013/04/20 23:59:15</SimpleData>
+		<SimpleData name="cartodb_georef_status">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>41.8551162,3.9356389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="county">Marsabit</SimpleData>
+		<SimpleData name="former_province">Eastern</SimpleData>
+		<SimpleData name="area_km2">66,923.10</SimpleData>
+		<SimpleData name="population_census_2009">291,166</SimpleData>
+		<SimpleData name="capital">Marsabit</SimpleData>
+		<SimpleData name="lat">2.3333333</SimpleData>
+		<SimpleData name="long">37.9833333</SimpleData>
+		<SimpleData name="cartodb_id">10</SimpleData>
+		<SimpleData name="created_at">2013/04/20 23:57:25</SimpleData>
+		<SimpleData name="updated_at">2013/04/20 23:59:18</SimpleData>
+		<SimpleData name="cartodb_georef_status">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.9833333,2.3333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="county">Isiolo</SimpleData>
+		<SimpleData name="former_province">Eastern</SimpleData>
+		<SimpleData name="area_km2">25,336.10</SimpleData>
+		<SimpleData name="population_census_2009">143,294</SimpleData>
+		<SimpleData name="capital">Isiolo</SimpleData>
+		<SimpleData name="lat">0.355636</SimpleData>
+		<SimpleData name="long">37.5833061</SimpleData>
+		<SimpleData name="cartodb_id">11</SimpleData>
+		<SimpleData name="created_at">2013/04/20 23:57:25</SimpleData>
+		<SimpleData name="updated_at">2013/04/20 23:59:19</SimpleData>
+		<SimpleData name="cartodb_georef_status">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.07166,36.70446</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="county">Meru</SimpleData>
+		<SimpleData name="former_province">Eastern</SimpleData>
+		<SimpleData name="area_km2">5,127.10</SimpleData>
+		<SimpleData name="population_census_2009">1,356,301</SimpleData>
+		<SimpleData name="capital">Meru</SimpleData>
+		<SimpleData name="lat">0.0514721</SimpleData>
+		<SimpleData name="long">37.6456042</SimpleData>
+		<SimpleData name="cartodb_id">12</SimpleData>
+		<SimpleData name="created_at">2013/04/20 23:57:25</SimpleData>
+		<SimpleData name="updated_at">2013/04/20 23:59:19</SimpleData>
+		<SimpleData name="cartodb_georef_status">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.07166,36.70446</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="county">Tharaka-Nithi</SimpleData>
+		<SimpleData name="former_province">Eastern</SimpleData>
+		<SimpleData name="area_km2">2,409.50</SimpleData>
+		<SimpleData name="population_census_2009">365,330</SimpleData>
+		<SimpleData name="capital">Chuka</SimpleData>
+		<SimpleData name="lat">-1.0387569</SimpleData>
+		<SimpleData name="long">37.0833753</SimpleData>
+		<SimpleData name="cartodb_id">13</SimpleData>
+		<SimpleData name="created_at">2013/04/20 23:57:25</SimpleData>
+		<SimpleData name="updated_at">2013/04/20 23:59:23</SimpleData>
+		<SimpleData name="cartodb_georef_status">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.0833753,-1.0387569</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="county">Embu</SimpleData>
+		<SimpleData name="former_province">Eastern</SimpleData>
+		<SimpleData name="area_km2">2,555.90</SimpleData>
+		<SimpleData name="population_census_2009">516,212</SimpleData>
+		<SimpleData name="capital">Embu</SimpleData>
+		<SimpleData name="lat">-0.5388381</SimpleData>
+		<SimpleData name="long">37.4596409</SimpleData>
+		<SimpleData name="cartodb_id">14</SimpleData>
+		<SimpleData name="created_at">2013/04/20 23:57:25</SimpleData>
+		<SimpleData name="updated_at">2013/04/20 23:59:24</SimpleData>
+		<SimpleData name="cartodb_georef_status">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.07166,36.70446</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="county">Kitui</SimpleData>
+		<SimpleData name="former_province">Eastern</SimpleData>
+		<SimpleData name="area_km2">24,385.10</SimpleData>
+		<SimpleData name="population_census_2009">1,012,709</SimpleData>
+		<SimpleData name="capital">Kitui</SimpleData>
+		<SimpleData name="lat">-1.3750813</SimpleData>
+		<SimpleData name="long">37.9952144</SimpleData>
+		<SimpleData name="cartodb_id">15</SimpleData>
+		<SimpleData name="created_at">2013/04/20 23:57:25</SimpleData>
+		<SimpleData name="updated_at">2013/04/20 23:59:27</SimpleData>
+		<SimpleData name="cartodb_georef_status">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.9952144,-1.3750813</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="county">Machakos</SimpleData>
+		<SimpleData name="former_province">Eastern</SimpleData>
+		<SimpleData name="area_km2">5,952.90</SimpleData>
+		<SimpleData name="population_census_2009">1,098,584</SimpleData>
+		<SimpleData name="capital">Machakos</SimpleData>
+		<SimpleData name="lat">-1.5176837</SimpleData>
+		<SimpleData name="long">37.2634146</SimpleData>
+		<SimpleData name="cartodb_id">16</SimpleData>
+		<SimpleData name="created_at">2013/04/20 23:57:25</SimpleData>
+		<SimpleData name="updated_at">2013/04/20 23:59:31</SimpleData>
+		<SimpleData name="cartodb_georef_status">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.2634146,-1.5176837</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="county">Makueni</SimpleData>
+		<SimpleData name="former_province">Eastern</SimpleData>
+		<SimpleData name="area_km2">8,008.90</SimpleData>
+		<SimpleData name="population_census_2009">884,527</SimpleData>
+		<SimpleData name="capital">Wote</SimpleData>
+		<SimpleData name="lat">-1.7833333</SimpleData>
+		<SimpleData name="long">37.6333333</SimpleData>
+		<SimpleData name="cartodb_id">17</SimpleData>
+		<SimpleData name="created_at">2013/04/20 23:57:25</SimpleData>
+		<SimpleData name="updated_at">2013/04/20 23:59:35</SimpleData>
+		<SimpleData name="cartodb_georef_status">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.6333333,-1.7833333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="county">Nyandarua</SimpleData>
+		<SimpleData name="former_province">Central</SimpleData>
+		<SimpleData name="area_km2">3,107.70</SimpleData>
+		<SimpleData name="population_census_2009">596,268</SimpleData>
+		<SimpleData name="capital">Ol Kalou</SimpleData>
+		<SimpleData name="lat">-0.272699</SimpleData>
+		<SimpleData name="long">36.3775152</SimpleData>
+		<SimpleData name="cartodb_id">18</SimpleData>
+		<SimpleData name="created_at">2013/04/20 23:57:25</SimpleData>
+		<SimpleData name="updated_at">2013/04/20 23:59:35</SimpleData>
+		<SimpleData name="cartodb_georef_status">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.07166,36.70446</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="county">Nyeri</SimpleData>
+		<SimpleData name="former_province">Central</SimpleData>
+		<SimpleData name="area_km2">2,361.00</SimpleData>
+		<SimpleData name="population_census_2009">693,558</SimpleData>
+		<SimpleData name="capital">Nyeri</SimpleData>
+		<SimpleData name="lat">-0.416876</SimpleData>
+		<SimpleData name="long">36.950981</SimpleData>
+		<SimpleData name="cartodb_id">19</SimpleData>
+		<SimpleData name="created_at">2013/04/20 23:57:25</SimpleData>
+		<SimpleData name="updated_at">2013/04/20 23:59:38</SimpleData>
+		<SimpleData name="cartodb_georef_status">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.07166,36.70446</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="county">Kirinyaga</SimpleData>
+		<SimpleData name="former_province">Central</SimpleData>
+		<SimpleData name="area_km2">1,205.40</SimpleData>
+		<SimpleData name="population_census_2009">528,054</SimpleData>
+		<SimpleData name="capital">Kerugoya/Kutus</SimpleData>
+		<SimpleData name="lat">-0.5</SimpleData>
+		<SimpleData name="long">37.2833333</SimpleData>
+		<SimpleData name="cartodb_id">20</SimpleData>
+		<SimpleData name="created_at">2013/04/20 23:57:25</SimpleData>
+		<SimpleData name="updated_at">2013/04/20 23:59:39</SimpleData>
+		<SimpleData name="cartodb_georef_status">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.07166,36.70446</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="county">Murang'a</SimpleData>
+		<SimpleData name="former_province">Central</SimpleData>
+		<SimpleData name="area_km2">2,325.80</SimpleData>
+		<SimpleData name="population_census_2009">942,581</SimpleData>
+		<SimpleData name="capital">Murang'a</SimpleData>
+		<SimpleData name="lat">-0.7839281</SimpleData>
+		<SimpleData name="long">37.0400339</SimpleData>
+		<SimpleData name="cartodb_id">21</SimpleData>
+		<SimpleData name="created_at">2013/04/20 23:57:25</SimpleData>
+		<SimpleData name="updated_at">2013/04/20 23:59:40</SimpleData>
+		<SimpleData name="cartodb_georef_status">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.07166,36.70446</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="county">Kiambu</SimpleData>
+		<SimpleData name="former_province">Central</SimpleData>
+		<SimpleData name="area_km2">2,449.20</SimpleData>
+		<SimpleData name="population_census_2009">1,623,282</SimpleData>
+		<SimpleData name="capital">Kiambu</SimpleData>
+		<SimpleData name="lat">-1.1748105</SimpleData>
+		<SimpleData name="long">36.8304102</SimpleData>
+		<SimpleData name="cartodb_id">22</SimpleData>
+		<SimpleData name="created_at">2013/04/20 23:57:25</SimpleData>
+		<SimpleData name="updated_at">2013/04/20 23:59:43</SimpleData>
+		<SimpleData name="cartodb_georef_status">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.8304102,-1.1748105</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="county">Turkana</SimpleData>
+		<SimpleData name="former_province">Rift Valley</SimpleData>
+		<SimpleData name="area_km2">71,597.80</SimpleData>
+		<SimpleData name="population_census_2009">855,399</SimpleData>
+		<SimpleData name="capital">Lodwar</SimpleData>
+		<SimpleData name="lat">3.1166667</SimpleData>
+		<SimpleData name="long">35.6</SimpleData>
+		<SimpleData name="cartodb_id">23</SimpleData>
+		<SimpleData name="created_at">2013/04/20 23:57:25</SimpleData>
+		<SimpleData name="updated_at">2013/04/20 23:59:44</SimpleData>
+		<SimpleData name="cartodb_georef_status">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.21411,5.39893</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="county">West Pokot</SimpleData>
+		<SimpleData name="former_province">Rift Valley</SimpleData>
+		<SimpleData name="area_km2">8,418.20</SimpleData>
+		<SimpleData name="population_census_2009">512,690</SimpleData>
+		<SimpleData name="capital">Kapenguria</SimpleData>
+		<SimpleData name="lat">1.260912</SimpleData>
+		<SimpleData name="long">35.07835</SimpleData>
+		<SimpleData name="cartodb_id">24</SimpleData>
+		<SimpleData name="created_at">2013/04/20 23:57:25</SimpleData>
+		<SimpleData name="updated_at">2013/04/20 23:59:48</SimpleData>
+		<SimpleData name="cartodb_georef_status">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.07835,1.260912</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="county">Samburu</SimpleData>
+		<SimpleData name="former_province">Rift Valley</SimpleData>
+		<SimpleData name="area_km2">20,182.50</SimpleData>
+		<SimpleData name="population_census_2009">223,947</SimpleData>
+		<SimpleData name="capital">Maralal</SimpleData>
+		<SimpleData name="lat">1.0931431</SimpleData>
+		<SimpleData name="long">36.7018311</SimpleData>
+		<SimpleData name="cartodb_id">25</SimpleData>
+		<SimpleData name="created_at">2013/04/20 23:57:25</SimpleData>
+		<SimpleData name="updated_at">2013/04/20 23:59:51</SimpleData>
+		<SimpleData name="cartodb_georef_status">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.7018311,1.0931431</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="county">Trans Nzoia</SimpleData>
+		<SimpleData name="former_province">Rift Valley</SimpleData>
+		<SimpleData name="area_km2">2,469.90</SimpleData>
+		<SimpleData name="population_census_2009">818,757</SimpleData>
+		<SimpleData name="capital">Kitale</SimpleData>
+		<SimpleData name="lat">1.019089</SimpleData>
+		<SimpleData name="long">35.0023048</SimpleData>
+		<SimpleData name="cartodb_id">26</SimpleData>
+		<SimpleData name="created_at">2013/04/20 23:57:25</SimpleData>
+		<SimpleData name="updated_at">2013/04/20 23:59:55</SimpleData>
+		<SimpleData name="cartodb_georef_status">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.0023048,1.019089</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="county">Uasin Gishu</SimpleData>
+		<SimpleData name="former_province">Rift Valley</SimpleData>
+		<SimpleData name="area_km2">2,955.30</SimpleData>
+		<SimpleData name="population_census_2009">894,179</SimpleData>
+		<SimpleData name="capital">Eldoret</SimpleData>
+		<SimpleData name="lat">0.51524</SimpleData>
+		<SimpleData name="long">35.266369</SimpleData>
+		<SimpleData name="cartodb_id">27</SimpleData>
+		<SimpleData name="created_at">2013/04/20 23:57:25</SimpleData>
+		<SimpleData name="updated_at">2013/04/20 23:59:56</SimpleData>
+		<SimpleData name="cartodb_georef_status">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.07166,36.70446</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="county">Elgeyo-Marakwet</SimpleData>
+		<SimpleData name="former_province">Rift Valley</SimpleData>
+		<SimpleData name="area_km2">3,049.70</SimpleData>
+		<SimpleData name="population_census_2009">369,998</SimpleData>
+		<SimpleData name="capital">Iten</SimpleData>
+		<SimpleData name="lat">0.6732354</SimpleData>
+		<SimpleData name="long">35.5083136</SimpleData>
+		<SimpleData name="cartodb_id">28</SimpleData>
+		<SimpleData name="created_at">2013/04/20 23:57:25</SimpleData>
+		<SimpleData name="updated_at">2013/04/20 23:59:56</SimpleData>
+		<SimpleData name="cartodb_georef_status">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.07166,36.70446</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="county">Nandi</SimpleData>
+		<SimpleData name="former_province">Rift Valley</SimpleData>
+		<SimpleData name="area_km2">2,884.50</SimpleData>
+		<SimpleData name="population_census_2009">752,965</SimpleData>
+		<SimpleData name="capital">Kapsabet</SimpleData>
+		<SimpleData name="lat">0.202957</SimpleData>
+		<SimpleData name="long">35.0978385</SimpleData>
+		<SimpleData name="cartodb_id">29</SimpleData>
+		<SimpleData name="created_at">2013/04/20 23:57:25</SimpleData>
+		<SimpleData name="updated_at">2013/04/20 23:59:57</SimpleData>
+		<SimpleData name="cartodb_georef_status">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.07166,36.70446</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="county">Baringo</SimpleData>
+		<SimpleData name="former_province">Rift Valley</SimpleData>
+		<SimpleData name="area_km2">11,075.30</SimpleData>
+		<SimpleData name="population_census_2009">555,561</SimpleData>
+		<SimpleData name="capital">Kabarnet</SimpleData>
+		<SimpleData name="lat">0.497705</SimpleData>
+		<SimpleData name="long">35.73201</SimpleData>
+		<SimpleData name="cartodb_id">30</SimpleData>
+		<SimpleData name="created_at">2013/04/20 23:57:25</SimpleData>
+		<SimpleData name="updated_at">2013/04/20 23:59:58</SimpleData>
+		<SimpleData name="cartodb_georef_status">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.73201,0.497705</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="county">Laikipia</SimpleData>
+		<SimpleData name="former_province">Rift Valley</SimpleData>
+		<SimpleData name="area_km2">8,696.10</SimpleData>
+		<SimpleData name="population_census_2009">399,227</SimpleData>
+		<SimpleData name="capital">Nanyuki</SimpleData>
+		<SimpleData name="lat">0.0166667</SimpleData>
+		<SimpleData name="long">37.0666667</SimpleData>
+		<SimpleData name="cartodb_id">31</SimpleData>
+		<SimpleData name="created_at">2013/04/20 23:57:25</SimpleData>
+		<SimpleData name="updated_at">2013/04/20 23:59:59</SimpleData>
+		<SimpleData name="cartodb_georef_status">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.07166,36.70446</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="county">Nakuru</SimpleData>
+		<SimpleData name="former_province">Rift Valley</SimpleData>
+		<SimpleData name="area_km2">7,509.50</SimpleData>
+		<SimpleData name="population_census_2009">1,603,325</SimpleData>
+		<SimpleData name="capital">Nakuru</SimpleData>
+		<SimpleData name="lat">-0.3030988</SimpleData>
+		<SimpleData name="long">36.080026</SimpleData>
+		<SimpleData name="cartodb_id">32</SimpleData>
+		<SimpleData name="created_at">2013/04/20 23:57:25</SimpleData>
+		<SimpleData name="updated_at">2013/04/21  0:00:00</SimpleData>
+		<SimpleData name="cartodb_georef_status">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.07166,36.70446</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="county">Narok</SimpleData>
+		<SimpleData name="former_province">Rift Valley</SimpleData>
+		<SimpleData name="area_km2">17,921.20</SimpleData>
+		<SimpleData name="population_census_2009">850,920</SimpleData>
+		<SimpleData name="capital">Narok</SimpleData>
+		<SimpleData name="lat">-1.0833333</SimpleData>
+		<SimpleData name="long">35.8666667</SimpleData>
+		<SimpleData name="cartodb_id">33</SimpleData>
+		<SimpleData name="created_at">2013/04/20 23:57:25</SimpleData>
+		<SimpleData name="updated_at">2013/04/21  0:00:03</SimpleData>
+		<SimpleData name="cartodb_georef_status">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.8666667,-1.0833333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="county">Kajiado</SimpleData>
+		<SimpleData name="former_province">Rift Valley</SimpleData>
+		<SimpleData name="area_km2">21,292.70</SimpleData>
+		<SimpleData name="population_census_2009">687,312</SimpleData>
+		<SimpleData name="capital">Kajiado</SimpleData>
+		<SimpleData name="lat">-1.8420731</SimpleData>
+		<SimpleData name="long">36.7918599</SimpleData>
+		<SimpleData name="cartodb_id">34</SimpleData>
+		<SimpleData name="created_at">2013/04/20 23:57:25</SimpleData>
+		<SimpleData name="updated_at">2013/04/21  0:00:06</SimpleData>
+		<SimpleData name="cartodb_georef_status">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.7918599,-1.8420731</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="county">Kericho</SimpleData>
+		<SimpleData name="former_province">Rift Valley</SimpleData>
+		<SimpleData name="area_km2">2,454.50</SimpleData>
+		<SimpleData name="population_census_2009">752,396</SimpleData>
+		<SimpleData name="capital">Kericho</SimpleData>
+		<SimpleData name="lat">-0.366062</SimpleData>
+		<SimpleData name="long">35.281799</SimpleData>
+		<SimpleData name="cartodb_id">35</SimpleData>
+		<SimpleData name="created_at">2013/04/20 23:57:25</SimpleData>
+		<SimpleData name="updated_at">2013/04/21  0:00:08</SimpleData>
+		<SimpleData name="cartodb_georef_status">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.07166,36.70446</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="county">Bomet</SimpleData>
+		<SimpleData name="former_province">Rift Valley</SimpleData>
+		<SimpleData name="area_km2">1,997.90</SimpleData>
+		<SimpleData name="population_census_2009">730,129</SimpleData>
+		<SimpleData name="capital">Bomet</SimpleData>
+		<SimpleData name="lat">-0.7836045</SimpleData>
+		<SimpleData name="long">35.3383954</SimpleData>
+		<SimpleData name="cartodb_id">36</SimpleData>
+		<SimpleData name="created_at">2013/04/20 23:57:25</SimpleData>
+		<SimpleData name="updated_at">2013/04/21  0:00:08</SimpleData>
+		<SimpleData name="cartodb_georef_status">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.07166,36.70446</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="county">Kakamega</SimpleData>
+		<SimpleData name="former_province">Western</SimpleData>
+		<SimpleData name="area_km2">3,033.80</SimpleData>
+		<SimpleData name="population_census_2009">1,660,651</SimpleData>
+		<SimpleData name="capital">Kakamega</SimpleData>
+		<SimpleData name="lat">0.2827307</SimpleData>
+		<SimpleData name="long">34.7518631</SimpleData>
+		<SimpleData name="cartodb_id">37</SimpleData>
+		<SimpleData name="created_at">2013/04/20 23:57:25</SimpleData>
+		<SimpleData name="updated_at">2013/04/21  0:00:10</SimpleData>
+		<SimpleData name="cartodb_georef_status">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.07166,36.70446</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="county">Vihiga</SimpleData>
+		<SimpleData name="former_province">Western</SimpleData>
+		<SimpleData name="area_km2">531.3</SimpleData>
+		<SimpleData name="population_census_2009">554,622</SimpleData>
+		<SimpleData name="capital">Vihiga</SimpleData>
+		<SimpleData name="lat">0.0921041</SimpleData>
+		<SimpleData name="long">34.7298765</SimpleData>
+		<SimpleData name="cartodb_id">38</SimpleData>
+		<SimpleData name="created_at">2013/04/20 23:57:25</SimpleData>
+		<SimpleData name="updated_at">2013/04/21  0:00:11</SimpleData>
+		<SimpleData name="cartodb_georef_status">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.07166,36.70446</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="county">Bungoma</SimpleData>
+		<SimpleData name="former_province">Western</SimpleData>
+		<SimpleData name="area_km2">2,206.90</SimpleData>
+		<SimpleData name="population_census_2009">1,375,063</SimpleData>
+		<SimpleData name="capital">Bungoma</SimpleData>
+		<SimpleData name="lat">0.569369</SimpleData>
+		<SimpleData name="long">34.561138</SimpleData>
+		<SimpleData name="cartodb_id">39</SimpleData>
+		<SimpleData name="created_at">2013/04/20 23:57:25</SimpleData>
+		<SimpleData name="updated_at">2013/04/21  0:00:11</SimpleData>
+		<SimpleData name="cartodb_georef_status">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.07166,36.70446</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="county">Busia</SimpleData>
+		<SimpleData name="former_province">Western</SimpleData>
+		<SimpleData name="area_km2">1,628.40</SimpleData>
+		<SimpleData name="population_census_2009">743,946</SimpleData>
+		<SimpleData name="capital">Busia</SimpleData>
+		<SimpleData name="lat">0.4607691</SimpleData>
+		<SimpleData name="long">34.1114621</SimpleData>
+		<SimpleData name="cartodb_id">40</SimpleData>
+		<SimpleData name="created_at">2013/04/20 23:57:25</SimpleData>
+		<SimpleData name="updated_at">2013/04/21  0:00:12</SimpleData>
+		<SimpleData name="cartodb_georef_status">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.07166,36.70446</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="county">Mombasa(city)</SimpleData>
+		<SimpleData name="former_province">Coast</SimpleData>
+		<SimpleData name="area_km2">212.5</SimpleData>
+		<SimpleData name="population_census_2009">939,370</SimpleData>
+		<SimpleData name="capital">Mombasa</SimpleData>
+		<SimpleData name="lat">-4.0434771</SimpleData>
+		<SimpleData name="long">39.6682065</SimpleData>
+		<SimpleData name="cartodb_id">1</SimpleData>
+		<SimpleData name="created_at">2013/04/20 23:57:25</SimpleData>
+		<SimpleData name="updated_at">2013/04/20 23:58:58</SimpleData>
+		<SimpleData name="cartodb_georef_status">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.6682065,-4.0434771</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="county">Siaya</SimpleData>
+		<SimpleData name="former_province">Nyanza</SimpleData>
+		<SimpleData name="area_km2">2,496.10</SimpleData>
+		<SimpleData name="population_census_2009">842,304</SimpleData>
+		<SimpleData name="capital">Siaya</SimpleData>
+		<SimpleData name="lat">0.0626293</SimpleData>
+		<SimpleData name="long">34.2878084</SimpleData>
+		<SimpleData name="cartodb_id">41</SimpleData>
+		<SimpleData name="created_at">2013/04/20 23:57:25</SimpleData>
+		<SimpleData name="updated_at">2013/04/21  0:00:14</SimpleData>
+		<SimpleData name="cartodb_georef_status">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.07166,36.70446</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="county">Kisumu</SimpleData>
+		<SimpleData name="former_province">Nyanza</SimpleData>
+		<SimpleData name="area_km2">2,009.50</SimpleData>
+		<SimpleData name="population_census_2009">968,909</SimpleData>
+		<SimpleData name="capital">Kisumu</SimpleData>
+		<SimpleData name="lat">-0.0917016</SimpleData>
+		<SimpleData name="long">34.7679568</SimpleData>
+		<SimpleData name="cartodb_id">42</SimpleData>
+		<SimpleData name="created_at">2013/04/20 23:57:25</SimpleData>
+		<SimpleData name="updated_at">2013/04/21  0:00:15</SimpleData>
+		<SimpleData name="cartodb_georef_status">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.07166,36.70446</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="county">Homa Bay</SimpleData>
+		<SimpleData name="former_province">Nyanza</SimpleData>
+		<SimpleData name="area_km2">3,154.70</SimpleData>
+		<SimpleData name="population_census_2009">963,794</SimpleData>
+		<SimpleData name="capital">Homa Bay</SimpleData>
+		<SimpleData name="lat">-0.5350427</SimpleData>
+		<SimpleData name="long">34.4530968</SimpleData>
+		<SimpleData name="cartodb_id">43</SimpleData>
+		<SimpleData name="created_at">2013/04/20 23:57:25</SimpleData>
+		<SimpleData name="updated_at">2013/04/21  0:00:16</SimpleData>
+		<SimpleData name="cartodb_georef_status">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.07166,36.70446</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="county">Migori</SimpleData>
+		<SimpleData name="former_province">Nyanza</SimpleData>
+		<SimpleData name="area_km2">2,586.40</SimpleData>
+		<SimpleData name="population_census_2009">917,170</SimpleData>
+		<SimpleData name="capital">Migori</SimpleData>
+		<SimpleData name="lat">-1.066667</SimpleData>
+		<SimpleData name="long">34.466667</SimpleData>
+		<SimpleData name="cartodb_id">44</SimpleData>
+		<SimpleData name="created_at">2013/04/20 23:57:25</SimpleData>
+		<SimpleData name="updated_at">2013/04/21  0:00:19</SimpleData>
+		<SimpleData name="cartodb_georef_status">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.466667,-1.066667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="county">Kisii</SimpleData>
+		<SimpleData name="former_province">Nyanza</SimpleData>
+		<SimpleData name="area_km2">1,317.90</SimpleData>
+		<SimpleData name="population_census_2009">1,152,282</SimpleData>
+		<SimpleData name="capital">Kisii</SimpleData>
+		<SimpleData name="lat">-0.678306</SimpleData>
+		<SimpleData name="long">34.771966</SimpleData>
+		<SimpleData name="cartodb_id">45</SimpleData>
+		<SimpleData name="created_at">2013/04/20 23:57:25</SimpleData>
+		<SimpleData name="updated_at">2013/04/21  0:00:21</SimpleData>
+		<SimpleData name="cartodb_georef_status">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.07166,36.70446</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="county">Nyamira</SimpleData>
+		<SimpleData name="former_province">Nyanza</SimpleData>
+		<SimpleData name="area_km2">912.5</SimpleData>
+		<SimpleData name="population_census_2009">598,252</SimpleData>
+		<SimpleData name="capital">Nyamira</SimpleData>
+		<SimpleData name="lat">-0.5669405</SimpleData>
+		<SimpleData name="long">34.9341234</SimpleData>
+		<SimpleData name="cartodb_id">46</SimpleData>
+		<SimpleData name="created_at">2013/04/20 23:57:25</SimpleData>
+		<SimpleData name="updated_at">2013/04/21  0:00:22</SimpleData>
+		<SimpleData name="cartodb_georef_status">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.07166,36.70446</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="county">Nairobi(city)</SimpleData>
+		<SimpleData name="former_province">Nairobi</SimpleData>
+		<SimpleData name="area_km2">694.9</SimpleData>
+		<SimpleData name="population_census_2009">3,138,369</SimpleData>
+		<SimpleData name="capital">Nairobi</SimpleData>
+		<SimpleData name="lat">-1.2920659</SimpleData>
+		<SimpleData name="long">36.8219462</SimpleData>
+		<SimpleData name="cartodb_id">47</SimpleData>
+		<SimpleData name="created_at">2013/04/20 23:57:25</SimpleData>
+		<SimpleData name="updated_at">2013/04/21  0:00:26</SimpleData>
+		<SimpleData name="cartodb_georef_status">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.8219462,-1.2920659</coordinates></Point>
+  </Placemark>
+</Folder></Document></kml>

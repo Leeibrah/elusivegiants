@@ -1,0 +1,236 @@
+{
+ "name": "flare",
+ "children": [
+  {
+   "name": "Year",
+   "children": [
+    {
+     "name": "2001",
+     "children": [      
+		{"name":"Jan", "size":"41"},
+		{"name":"Feb", "size":"46"},
+		{"name":"Mar", "size":"58"},
+		{"name":"Apr", "size":"51"},
+		{"name":"May", "size":"57"},
+		{"name":"Jun", "size":"53"},
+		{"name":"Jul", "size":"58"},
+		{"name":"Aug", "size":"49"},
+		{"name":"Sep", "size":"53"},
+		{"name":"Oct", "size":"48"},
+		{"name":"Nov", "size":"68"},
+		{"name":"Dec", "size":"52"}
+     ]
+    },
+	{
+     "name": "2002",
+     "children": [      
+		{"name":"Jan", "size":"72"},
+		{"name":"Feb", "size":"74"},
+		{"name":"Mar", "size":"90"},
+		{"name":"Apr", "size":"56"},
+		{"name":"May", "size":"63"},
+		{"name":"Jun", "size":"55"},
+		{"name":"Jul", "size":"59"},
+		{"name":"Aug", "size":"53"},
+		{"name":"Sep", "size":"63"},
+		{"name":"Oct", "size":"55"},
+		{"name":"Nov", "size":"59"},
+		{"name":"Dec", "size":"42"}
+     ]
+    },
+	{
+     "name": "2003",
+     "children": [      
+		{"name":"Jan", "size":"73"},
+		{"name":"Feb", "size":"55"},
+		{"name":"Mar", "size":"56"},
+		{"name":"Apr", "size":"52"},
+		{"name":"May", "size":"61"},
+		{"name":"Jun", "size":"47"},
+		{"name":"Jul", "size":"54"},
+		{"name":"Aug", "size":"65"},
+		{"name":"Sep", "size":"63"},
+		{"name":"Oct", "size":"73"},
+		{"name":"Nov", "size":"53"},
+		{"name":"Dec", "size":"72"}
+     ]
+    },
+	{
+     "name": "2004",
+     "children": [      
+		{"name":"Jan", "size":"57"},
+		{"name":"Feb", "size":"67"},
+		{"name":"Mar", "size":"64"},
+		{"name":"Apr", "size":"58"},
+		{"name":"May", "size":"40"},
+		{"name":"Jun", "size":"41"},
+		{"name":"Jul", "size":"24"},
+		{"name":"Aug", "size":"42"},
+		{"name":"Sep", "size":"50"},
+		{"name":"Oct", "size":"61"},
+		{"name":"Nov", "size":"70"},
+		{"name":"Dec", "size":"48"}
+     ]
+    },
+	{
+     "name": "2005",
+     "children": [      
+		{"name":"Jan", "size":"69"},
+		{"name":"Feb", "size":"54"},
+		{"name":"Mar", "size":"67"},
+		{"name":"Apr", "size":"67"},
+		{"name":"May", "size":"61"},
+		{"name":"Jun", "size":"64"},
+		{"name":"Jul", "size":"61"},
+		{"name":"Aug", "size":"60"},
+		{"name":"Sep", "size":"74"},
+		{"name":"Oct", "size":"77"},
+		{"name":"Nov", "size":"71"},
+		{"name":"Dec", "size":"65"}
+     ]
+    },
+	{
+     "name": "2006",
+     "children": [      
+		{"name":"Jan", "size":"53"},
+		{"name":"Feb", "size":"66"},
+		{"name":"Mar", "size":"59"},
+		{"name":"Apr", "size":"45"},
+		{"name":"May", "size":"44"},
+		{"name":"Jun", "size":"60"},
+		{"name":"Jul", "size":"50"},
+		{"name":"Aug", "size":"66"},
+		{"name":"Sep", "size":"59"},
+		{"name":"Oct", "size":"67"},
+		{"name":"Nov", "size":"70"},
+		{"name":"Dec", "size":"75"}
+     ]
+    },
+	{
+     "name": "2007",
+     "children": [      
+		{"name":"Jan", "size":"93"},
+		{"name":"Feb", "size":"66"},
+		{"name":"Mar", "size":"68"},
+		{"name":"Apr", "size":"71"},
+		{"name":"May", "size":"64"},
+		{"name":"Jun", "size":"55"},
+		{"name":"Jul", "size":"57"},
+		{"name":"Aug", "size":"57"},
+		{"name":"Sep", "size":"62"},
+		{"name":"Oct", "size":"57"},
+		{"name":"Nov", "size":"54"},
+		{"name":"Dec", "size":"46"}
+     ]
+    },
+	{
+     "name": "2008",
+     "children": [      
+		{"name":"Jan", "size":"23"},
+		{"name":"Feb", "size":"32"},
+		{"name":"Mar", "size":"70"},
+		{"name":"Apr", "size":"49"},
+		{"name":"May", "size":"47"},
+		{"name":"Jun", "size":"44"},
+		{"name":"Jul", "size":"55"},
+		{"name":"Aug", "size":"39"},
+		{"name":"Sep", "size":"59"},
+		{"name":"Oct", "size":"62"},
+		{"name":"Nov", "size":"62"},
+		{"name":"Dec", "size":"51"}
+     ]
+    },
+	{
+     "name": "2009",
+     "children": [      
+		{"name":"Jan", "size":"57"},
+		{"name":"Feb", "size":"49"},
+		{"name":"Mar", "size":"49"},
+		{"name":"Apr", "size":"57"},
+		{"name":"May", "size":"59"},
+		{"name":"Jun", "size":"61"},
+		{"name":"Jul", "size":"67"},
+		{"name":"Aug", "size":"61"},
+		{"name":"Sep", "size":"65"},
+		{"name":"Oct", "size":"59"},
+		{"name":"Nov", "size":"70"},
+		{"name":"Dec", "size":"58"}
+     ]
+    },
+	{
+     "name": "2010",
+     "children": [      
+		{"name":"Jan", "size":"67"},
+		{"name":"Feb", "size":"75"},
+		{"name":"Mar", "size":"87"},
+		{"name":"Apr", "size":"82"},
+		{"name":"May", "size":"71"},
+		{"name":"Jun", "size":"60"},
+		{"name":"Jul", "size":"57"},
+		{"name":"Aug", "size":"59"},
+		{"name":"Sep", "size":"57"},
+		{"name":"Oct", "size":"65"},
+		{"name":"Nov", "size":"75"},
+		{"name":"Dec", "size":"45"}
+     ]
+    },
+	{
+     "name": "2011",
+     "children": [      
+		{"name":"Jan", "size":"46"},
+		{"name":"Feb", "size":"45"},
+		{"name":"Mar", "size":"58"},
+		{"name":"Apr", "size":"61"},
+		{"name":"May", "size":"48"},
+		{"name":"Jun", "size":"54"},
+		{"name":"Jul", "size":"70"},
+		{"name":"Aug", "size":"69"},
+		{"name":"Sep", "size":"52"},
+		{"name":"Oct", "size":"60"},
+		{"name":"Nov", "size":"50"},
+		{"name":"Dec", "size":"46"}
+     ]
+    },
+	{
+     "name": "2012",
+     "children": [      
+		{"name":"Jan", "size":"37"},
+		{"name":"Feb", "size":"39"},
+		{"name":"Mar", "size":"49"},
+		{"name":"Apr", "size":"60"},
+		{"name":"May", "size":"70"},
+		{"name":"Jun", "size":"59"},
+		{"name":"Jul", "size":"51"},
+		{"name":"Aug", "size":"57"},
+		{"name":"Sep", "size":"67"},
+		{"name":"Oct", "size":"72"},
+		{"name":"Nov", "size":"68"},
+		{"name":"Dec", "size":"44"}
+     ]
+    },
+	{
+     "name": "2013",
+     "children": [      
+		{"name":"Jan", "size":"61"},
+		{"name":"Feb", "size":"51"},
+		{"name":"Mar", "size":"59"}
+     ]
+    },
+    
+    {
+     "name": "optimization",
+     "children": [
+      {"name": "AspectRatioBanker", "size": 0}
+     ]
+    }
+   ]
+  },
+
+  {
+   "name": "vis",
+   "children": [
+    {"name": "Visualization", "size": 0}
+   ]
+  }
+ ]
+}
